@@ -1,5 +1,0 @@
-80 07		-	HRes
-38 04		-	VRes
-40 FA 01 00	-	H Screen
-C4 1C 01 00	-	V Screen
-62 8E 00 00	-	V Center
