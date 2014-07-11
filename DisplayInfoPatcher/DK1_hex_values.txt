@@ -1,0 +1,5 @@
+00 05		-	HRes
+20 03		-	VRes
+00 49 02 00	-	H Screen
+A0 6D 01 00	-	V Screen
+D0 B6 00 00	-	V Center
